@@ -1,12 +1,12 @@
 def addition(num1, num2)
-  num1 = 3
-  num2 = 3 
+  num1 = 5
+  num2 = 4 
  puts (num1 + num2)
 end
 
 def subtraction(num1, num2)
- num1 = 1 
- num2 = 2 
+ num1 = 10 
+ num2 = 5 
  puts (num1 - num2)
 end
 
